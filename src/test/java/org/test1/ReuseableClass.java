@@ -88,7 +88,8 @@ public class ReuseableClass {
 
 		cr.setCellValue("Datas", 1, 18, attribute);
 		cr.closeWindow();
-		
+		System.out.println("confilcts 1");
+		System.out.println("Final A");
 
 	}
 
