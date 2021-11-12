@@ -90,6 +90,12 @@ public class ReuseableClass {
 		cr.closeWindow();
 		System.out.println("confilcts 1");
 		System.out.println("Final A");
+		System.out.println("MS Dhoni");
+		System.out.println("Cristiano Ronaldo");
+		
+
+		
+
 
 	}
 
